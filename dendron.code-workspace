@@ -16,7 +16,27 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggest.showSnippets": true,
     "editor.tabCompletion": "on",
-    "dendron.enableSelfContainedVaultWorkspace": true
+    "dendron.enableSelfContainedVaultWorkspace": true,
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#be8bab",
+      "activityBar.background": "#be8bab",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
+      "activityBarBadge.background": "#556639",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "commandCenter.border": "#15202b99",
+      "sash.hoverBorder": "#be8bab",
+      "statusBar.background": "#ac6a94",
+      "statusBar.foreground": "#15202b",
+      "statusBarItem.hoverBackground": "#92517a",
+      "statusBarItem.remoteBackground": "#ac6a94",
+      "statusBarItem.remoteForeground": "#15202b",
+      "titleBar.activeBackground": "#ac6a94",
+      "titleBar.activeForeground": "#15202b",
+      "titleBar.inactiveBackground": "#ac6a9499",
+      "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#ac6a94"
   },
   "extensions": {
     "recommendations": [
